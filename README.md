@@ -120,7 +120,9 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 ~~~
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/e9891072-262c-4822-af31-95854030ff4c)
-![image](https://github.com/user-attachments/assets/3e9dad0e-43e1-41c2-9491-42e7570193d6)
+
+![image](https://github.com/user-attachments/assets/17e8c462-4954-42c4-bd6b-f4659b573ff6)
+
 
 
 # RESULT:
